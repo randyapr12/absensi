@@ -1,9 +1,9 @@
 
 import 'package:absensi/screen/splashscreen.dart';
 import 'package:flutter/material.dart';
-import 'package:absensi/screen/home.dart';
-import 'package:absensi/screen/login.dart';
-import 'package:absensi/screen/register.dart';
+import 'package:absensi/screen/homePage.dart';
+import 'package:absensi/screen/loginPage.dart';
+import 'package:absensi/screen/registerPage.dart';
 
 
 void main() {
